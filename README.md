@@ -1,4 +1,4 @@
-# Project for ML/SII courses: Facenet Application
+# Project for Roma Tre ML/SII courses: Facenet Application
 
 
 ## Dependencies
